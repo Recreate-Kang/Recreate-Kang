@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36a3e7,100:&height=180&section=header&text=Hi,%20this%20is%20Jaehyun-Kang&fontColor=000000&fontSize=40" width="100%"/>
-</div>
+
 
 ## 🛠 Tech Stack
 
@@ -15,7 +15,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zetiburon666)](https://solved.ac/zetiburon666)
 
-
+<h4>📬 Contacts 📬</h4>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:recreate.kang@gmail.com)](mailto:recreate.kang@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRecreate-Kang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
