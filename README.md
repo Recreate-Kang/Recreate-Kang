@@ -13,10 +13,10 @@
 | **Tools** | ![IntelliJ IDEA](https://img.shields.io/badge/intellJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zetiburon666)](https://solved.ac/zetiburon666)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zetiburon666)](https://solved.ac/zetiburon666)   ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Recreate-Kang&layout=compact)
 
 <h4>📬 Contacts 📬</h4>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:recreate.kang@gmail.com)](mailto:recreate.kang@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:recreate.kang@gmail.com)](mailto:recreate.kang@gmail.com) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRecreate-Kang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
